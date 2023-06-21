@@ -1,0 +1,19 @@
+	    *******WELCOME CUSTOMER*******
+
+Bill Number:713
+
+Customer Name:
+
+Customer Phone Number:
+
+=======================================================Product			Quantity			Price
+=======================================================
+Bath Soap			07			140 Rs
+Rice			02			60 Rs
+Maza			01			50 Rs
+-------------------------------------------------------
+Cosmetic Tax				16.8 Rs
+Grocery Tax				3.0 Rs
+Drinks Tax				4.0 Rs
+Total Bill 				276.8 Rs
+-------------------------------------------------------

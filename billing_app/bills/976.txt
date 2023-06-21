@@ -1,0 +1,24 @@
+	    *******WELCOME CUSTOMER*******
+
+Bill Number:976
+
+Customer Name:SOMYA
+
+Customer Phone Number:9879078623
+
+=======================================================Product			Quantity			Price
+=======================================================
+Bath Soap			06			120 Rs
+Face Cream			4			200 Rs
+Hair Gel			02			0 Rs
+Oil			02			200 Rs
+Sugar			01			50 Rs
+Maza			08			400 Rs
+Frooti			01			45 Rs
+-------------------------------------------------------
+Cosmetic Tax				38.4 Rs
+Grocery Tax				12.5 Rs
+Drinks Tax				35.6 Rs
+-------------------------------------------------------
+Total Bill 				1114.0 Rs
+-------------------------------------------------------

@@ -1,0 +1,21 @@
+	    *******WELCOME CUSTOMER*******
+
+Bill Number:807
+
+Customer Name:KARTIK
+
+Customer Phone Number:3298456214
+
+=======================================================Product			Quantity			Price
+=======================================================
+Bath Soap			02			40 Rs
+Face Cream			01			50 Rs
+Daal			02			240 Rs
+Maza			02			100 Rs
+Coco_cola			01			90 Rs
+-------------------------------------------------------
+Cosmetic Tax				10.799999999999999 Rs
+Grocery Tax				12.0 Rs
+Drinks Tax				15.200000000000001 Rs
+Total Bill 				570.0 Rs
+-------------------------------------------------------

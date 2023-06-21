@@ -1,0 +1,20 @@
+	    *******WELCOME CUSTOMER*******
+
+Bill Number:651
+
+Customer Name:Rohan
+
+Customer Phone Number:2341289321
+
+=======================================================Product			Quantity			Price
+=======================================================
+Bath Soap			02			40 Rs
+Daal			01			120 Rs
+Sugar			01			50 Rs
+Sprite			01			30 Rs
+-------------------------------------------------------
+Cosmetic Tax				4.8 Rs
+Grocery Tax				8.5 Rs
+Drinks Tax				2.4 Rs
+Total Bill 				264.2 Rs
+-------------------------------------------------------

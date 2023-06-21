@@ -1,0 +1,19 @@
+	    *******WELCOME CUSTOMER*******
+
+Bill Number:982
+
+Customer Name:Suraj
+
+Customer Phone Number:5645789065
+
+=======================================================Product			Quantity			Price
+=======================================================
+Bath Soap			03			60 Rs
+Daal			06			720 Rs
+Sprite			04			120 Rs
+-------------------------------------------------------
+Cosmetic Tax				7.199999999999999 Rs
+Grocery Tax				36.0 Rs
+Drinks Tax				9.6 Rs
+Total Bill 				988.8000000000001 Rs
+-------------------------------------------------------

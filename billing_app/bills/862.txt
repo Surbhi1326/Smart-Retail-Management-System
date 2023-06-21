@@ -1,0 +1,22 @@
+	    *******WELCOME CUSTOMER*******
+
+Bill Number:862
+
+Customer Name:ram
+
+Customer Phone Number:7678223254
+
+=======================================================Product			Quantity			Price
+=======================================================
+Bath Soap			02			40 Rs
+Face Cream			1			50 Rs
+Rice			01			30 Rs
+Oil			03			300 Rs
+Sprite			03			90 Rs
+Pepsi			01			20 Rs
+-------------------------------------------------------
+Cosmetic Tax				10.799999999999999 Rs
+Grocery Tax				16.5 Rs
+Drinks Tax				8.8 Rs
+Total Bill 				582.5999999999999 Rs
+-------------------------------------------------------

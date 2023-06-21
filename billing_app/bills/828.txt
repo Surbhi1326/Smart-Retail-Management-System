@@ -1,0 +1,19 @@
+	    *******WELCOME CUSTOMER*******
+
+Bill Number:828
+
+Customer Name:
+
+Customer Phone Number:
+
+=======================================================Product			Quantity			Price
+=======================================================
+Bath Soap			02			40 Rs
+Oil			03			300 Rs
+Sprite			03			90 Rs
+-------------------------------------------------------
+Cosmetic Tax				4.8 Rs
+Grocery Tax				15.0 Rs
+Drinks Tax				7.2 Rs
+Total Bill 				472.0 Rs
+-------------------------------------------------------
